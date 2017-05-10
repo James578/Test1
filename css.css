@@ -1,3 +1,11 @@
 body {
   font-size: 26px;
+  font-family: Gadugi, helvetica ;
+}
+p2 {
+  color: rgb(0, 0, 30);
+  font-size: 22px;
+  font-style: italic;
+  padding-top: 100px;
+  padding-left: 5px
 }
