@@ -1,15 +1,36 @@
 body {
-  font-size: 26px;
+  font-size: 22px;
   font-family: Gadugi, helvetica ;
 }
 p2 {
   color: rgb(0, 0, 30);
   font-size: 22px;
-  font-style: italic;
+  font-style: normal;
   padding-top: 100px;
-  padding-left: 5px
+  padding-left: 2px
 }
 p{
-  font-size: 36px;
+  font-size: 24px;
+  padding-left: 2px;
+  padding-top: 10px;
+}
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+img {
+  position: fixed;
+  bottom: 200px;
+  left: 0;
+  width: 300px;
+  border: 5px solid rgb(51, 153, 51);
 
+}
+a {
+  padding-left: 20px;
+  padding-top: 20px;
+  color: rgb(0, 0, 153);
+  text-decoration: none;
+  font-size: 16px;
 }
